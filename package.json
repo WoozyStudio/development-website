@@ -1,0 +1,22 @@
+{
+  "name": "woozystudio.github.io",
+  "version": "1.0.0",
+  "description": "https://woozystudio.github.io",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "20.x"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoozyStudio/woozystudio.github.io.git"
+  },
+  "keywords": [],
+  "author": "Gianluca A. <woozystudiocontact@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WoozyStudio/woozystudio.github.io/issues"
+  },
+  "homepage": "https://github.com/WoozyStudio/woozystudio.github.io#readme"
+}
